@@ -1,0 +1,16 @@
+{
+    "name": "legovaer/alfred-opta-docs",
+    "description": "An ultra-fast OPTA docs search workflow for Alfred.",
+    "version": "1.0.0",
+    "keywords": ["alfred", "alfred-workflow", "opta", "algolia"],
+    "homepage": "https://github.com/legovaer/alfred-opta-docs",
+    "support": {
+        "source": "https://github.com/legovaer/alfred-opta-docs",
+        "issues": "https://github.com/legovaer/alfred-opta-docs/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "algolia/algoliasearch-client-php": "^2.7"
+    }
+}
